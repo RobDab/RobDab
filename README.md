@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Roberto D.</h1>
+<h1 align="center">Hi 👋, I'm Roberto</h1>
 <h3 align="center">Junior FullStack Developer from Italy!</h3>
 
 - 🌱 I’m currently learning **Back End Development, .NET Framework**
